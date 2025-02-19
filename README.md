@@ -1,7 +1,7 @@
 # 💫 About Me:
  Hi there 👋 
 
- My name is Justin Talbot and I am a third year at Rochester Institute of Technology.
+ My name is Justin Talbot and I am a fourth year at Rochester Institute of Technology.
  I am doing an individualized BS program involving front-end, back-end, data management, and whatever else piques my interest.
 
  On here, I am generally working on personal or passion projects. Feel free to browse my repos to see what I am working on.
